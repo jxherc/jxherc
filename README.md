@@ -64,4 +64,4 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 
 ## acknowledgements
 
-**many of this is inspired by [caezium](https://github.com/caezium)
+**many of this is inspired by [caezium](https://github.com/caezium)**
