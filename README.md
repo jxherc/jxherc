@@ -1,16 +1,59 @@
-## Hi there 👋
+# hai, im eric.
 
-<!--
-**jxherc/jxherc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like building products but kinda dislike coding. i make the things i wish existed, mostly self-hosted, with the frontend i actually want to use.
 
-Here are some ideas to get you started:
+[website](https://jxherc.com) · [tokscale](https://tokscale.ai/u/jxherc) · [email](mailto:a@jxherc.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## about
+
+i build full personal platforms mostly from scratch and host them myself, for practicality and also i dont like how many devices feel like or is designed like. my thing sits between engineering and design, so i care about UI/UX and frontend as much as the backend, and that's usually where my projects differ from the typical self-hosted tool. i also build with LLMs mostly, both inside my projects and around my dev workflow.
+
+
+---
+
+## projects
+
+### main
+
+- **[alles](https://github.com/jxherc/alles)** — your everything-app, self-hosted: AI (aide), mail, docs, files, calendar, tasks, gallery and more on your own machine. `python`
+- **[aide](https://github.com/jxherc/aide)** — self-hosted AI: chat with any model, agent mode, research, memory. the AI core of alles, also runs standalone. `python`
+- **[kokuen](https://github.com/jxherc/kokuen)** (黒鉛) — blacknwhite web design system. four-step grey ramp + one functional status signal. the house style behind website + alles. `css`
+- **[website](https://github.com/jxherc/website)** — my personal site, [jxherc.com](https://jxherc.com). `html`
+- **[claudewarmer](https://github.com/jxherc/claudewarmer)** — powershell tool for claude / claude code. `powershell`
+
+### infra / web
+
+- **[api](https://github.com/jxherc/api)** — cloudflare worker api powering the site. `javascript`
+- **[admin](https://github.com/jxherc/admin)** — admin panel for the site. `html`
+
+### discord bots
+
+- **[bot](https://github.com/jxherc/bot)** — discord gateway bot, pipes shitposts to the site. `javascript`
+- **[discord-feed-bot](https://github.com/jxherc/discord-feed-bot)** — rss / news feed bot. `javascript`
+- **[discord-bump-bot](https://github.com/jxherc/discord-bump-bot)** — auto-bump bot for server listings. `python`
+
+### other
+
+- **[sf-mono](https://github.com/jxherc/sf-mono)** — apple's sf mono terminal font, uploaded for ease of download.
+- **[odysseus-pewds](https://github.com/jxherc/odysseus-pewds)** — customized fork of pewdiepie's odysseus, forked. `javascript`
+- **[Arch-Hyprland](https://github.com/jxherc/Arch-Hyprland)** — automated hyprland setup for arch, forked. `shell`
+
+---
+
+## tech & tools
+
+**languages** python · javascript · html / css
+**backend** fastapi · sqlite
+**infra** cloudflare (workers, pages) · nginx · linux (fedora / arch)
+**other** git · building with LLMs (claude, groq)
+
+---
+
+## links
+
+- site → [jxherc.com](https://jxherc.com)
+- github → [@jxherc](https://github.com/jxherc)
+- tokscale → [tokscale.ai/u/jxherc](https://tokscale.ai/u/jxherc)
+- email → [a@jxherc.com](mailto:a@jxherc.com)
