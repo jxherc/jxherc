@@ -5,7 +5,7 @@ i like building products but kinda dislike coding. i make the things i wish exis
 <p align="left">
   <a href="https://github.com/jxherc"><img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jxherc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&hide_border=true" />
   </a>
-  <a href="https://tokscale.ai/u/jxherc" target="_blank">
+  <a href="https://tokscale.ai/u/jxherc" target="blank">
     <img src="https://api.jxherc.com/stats.svg" height="150" alt="Tokscale stats" />
   </a>
 </p>
