@@ -1,6 +1,6 @@
 # hai, im eric.
 
-i like building products but kinda dislike coding. i make the things i wish existed, mostly self-hosted, with the frontend i actually want to use.
+i like building products but kinda dislike coding. i make the things i wish existed, mostly self-hosted, with the frontend i actually want to use. feel free to contact me at my discord or email or @ me on twitter :)
 
 <p align="left">
   <a href="https://github.com/jxherc"><img height="140" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jxherc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&hide_border=true&v=1" /></a>
@@ -58,6 +58,9 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 
 - site → [jxherc.com](https://jxherc.com)
 - github → [@jxherc](https://github.com/jxherc)
+- discord → jxherc
+- discord server (ping me any time!) → [gbp](https://jxherc.com/gbp)
+- twitter → [@jxherc](twitter.com/jxherc)
 - email → [a@jxherc.com](mailto:a@jxherc.com)
 
 ---
