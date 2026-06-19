@@ -2,9 +2,12 @@
 
 i like building products but kinda dislike coding. i make the things i wish existed, mostly self-hosted, with the frontend i actually want to use.
 
-<p align="center">
-  <a href="https://github.com/jxherc"><img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jxherc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&hide_border=true" /></a>
-  <a href="https://tokscale.ai/u/jxherc"><img height="150" alt="tokscale stats" src="https://tokscale.ai/api/embed/jxherc/svg?theme=dark&color=monochrome&graph=1&tokens=compact&cost=compact" /></a>
+<p align="left">
+  <a href="https://github.com/jxherc"><img height="150" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jxherc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&hide_border=true" />
+  </a>
+  <a href="https://tokscale.ai/u/jxherc" target="_blank">
+    <img src="https://api.jxherc.com/stats.svg" height="150" alt="Tokscale stats" />
+  </a>
 </p>
 
 ---
