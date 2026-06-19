@@ -2,7 +2,10 @@
 
 i like building products but kinda dislike coding. i make the things i wish existed, mostly self-hosted, with the frontend i actually want to use.
 
-[website](https://jxherc.com) · [tokscale](https://tokscale.ai/u/jxherc) · [email](mailto:a@jxherc.com)
+<p align="center">
+  <a href="https://github.com/jxherc"><img height="195" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=jxherc&show_icons=true" /></a>
+  <a href="https://tokscale.ai/u/jxherc"><img height="195" alt="tokscale stats" src="https://tokscale.ai/api/embed/jxherc/svg?theme=light&graph=1&tokens=compact&cost=compact" /></a>
+</p>
 
 ---
 
@@ -17,8 +20,8 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 
 ### main
 
-- **[alles](https://github.com/jxherc/alles)** — your everything-app, self-hosted: AI (aide), mail, docs, files, calendar, tasks, gallery and more on your own machine. `python`
-- **[aide](https://github.com/jxherc/aide)** — self-hosted AI: chat with any model, agent mode, research, memory. the AI core of alles, also runs standalone. `python`
+- **[alles](https://github.com/jxherc/alles)** — inspired by [odysseus](https://github.com/pewdiepie-archdaemon/odysseus), your everything-app, self-hosted: AI (aide), mail, docs, files, calendar, tasks, gallery and more on your own machine. `python`
+- **[aide](https://github.com/jxherc/aide)** — self-hosted AI from alles: chat with any model, agent mode, research, memory. the AI core of alles, also runs standalone. `python`
 - **[kokuen](https://github.com/jxherc/kokuen)** (黒鉛) — blacknwhite web design system. four-step grey ramp + one functional status signal. the house style behind website + alles. `css`
 - **[website](https://github.com/jxherc/website)** — my personal site, [jxherc.com](https://jxherc.com). `html`
 - **[claudewarmer](https://github.com/jxherc/claudewarmer)** — powershell tool for claude / claude code. `powershell`
@@ -55,5 +58,10 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 
 - site → [jxherc.com](https://jxherc.com)
 - github → [@jxherc](https://github.com/jxherc)
-- tokscale → [tokscale.ai/u/jxherc](https://tokscale.ai/u/jxherc)
 - email → [a@jxherc.com](mailto:a@jxherc.com)
+
+---
+
+## acknowledgements
+
+**many of this is inspired by [caezium](https://github.com/caezium)
