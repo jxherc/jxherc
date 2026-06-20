@@ -60,7 +60,7 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 - github → [@jxherc](https://github.com/jxherc)
 - discord → jxherc
 - discord server (ping me any time!) → [gbp](https://jxherc.com/gbp)
-- twitter → [@jxherc](twitter.com/jxherc)
+- twitter → [@jxherc](https://twitter.com/jxherc)
 - email → [a@jxherc.com](mailto:a@jxherc.com)
 
 ---
