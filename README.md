@@ -24,7 +24,7 @@ i build full personal platforms mostly from scratch and host them myself, for pr
 - **[aide](https://github.com/jxherc/aide)** — self-hosted AI from alles: chat with any model, agent mode, research, memory. the AI core of alles, also runs standalone. `python`
 - **[kokuen](https://github.com/jxherc/kokuen)** (黒鉛) — blacknwhite web design system. four-step grey ramp + one functional status signal. the house style behind website + alles. `css`
 - **[website](https://github.com/jxherc/website)** — my personal site, [jxherc.com](https://jxherc.com). `html`
-- **[claudewarmer](https://github.com/jxherc/claudewarmer)** — powershell tool for claude / claude code. `powershell`
+- **[claudewarmer](https://github.com/jxherc/claudewarmer)** — terminal tool for claude / claude code. `powershell/shell`
 
 ### infra / web
 
