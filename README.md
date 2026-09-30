@@ -1,5 +1,5 @@
-interested in sde & ui/ux
-currently in senior year
-toronto canada
-chinese
-isfp-a
+interested in sde & ui/ux <br>
+currently in senior year <br>
+toronto canada <br>
+chinese <br>
+isfp-a <br>
